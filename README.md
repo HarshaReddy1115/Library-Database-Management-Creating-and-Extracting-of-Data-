@@ -1,0 +1,2 @@
+# Library-Database-Management-Creating-and-Extracting-of-Data-
+This project is about designing a database using SQL to store all the necessary information about the books, including their titles, authors,  publication dates, and borrowers. The database includes multiple tables, each with relevant columns to organize the data. The Tables are well Integrated . There were few questions which is solved using SQl
